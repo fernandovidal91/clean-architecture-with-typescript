@@ -4,7 +4,6 @@
 - [I - Introdução](#introdução)
 - [1 - O que é arquitetura de software](#oqueearquiteturadesoftware)
 
-<hr />
 
 ## Introdução
 
@@ -14,7 +13,6 @@ Neste projeto, cada capítulo do livro é resumido e explicado de forma clara e 
 
 A implementação de uma arquitetura limpa é um desafio importante para os desenvolvedores de software, e a utilização de Typescript pode ajudar a tornar esse processo mais fácil e menos propenso a erros. Esperamos que este projeto ajude você a entender os conceitos apresentados no livro "Arquitetura Limpa" de uma forma mais clara e objetiva, e que seja uma referência valiosa para a construção de sistemas de software robustos e escaláveis.
 
-<hr />
 
 ## O que é arquitetura de software?
 
@@ -24,6 +22,5 @@ Uma arquitetura bem definida torna mais fácil a implementação de novas funcio
 
 Em resumo, o objetivo da arquitetura de software é fornecer uma estrutura sólida e flexível para o desenvolvimento de sistemas de software que atendam às necessidades do negócio de forma eficaz, com alta qualidade e baixo custo.
 
-<hr />
 
 ## Os dois valores
